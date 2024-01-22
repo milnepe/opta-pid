@@ -18,9 +18,11 @@ Run configuration client with PID constants and setpoint
 ```
 (venv) $ python write_registers.py
 ```
+# Simulation
 Run plant simulation
 ```
 (venv) $ python plant_temperature_simulator.py
 ```
+# Tune PID
 Check output log in ./output.log and tune PID constants
 
