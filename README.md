@@ -1,7 +1,7 @@
 # opta-pid
 Arduino Opta PID controller with ModbusTCP interface
 
-# Instalation
+# Installation
 Copy the Arduino script to the Opta and setup the shared variables.
 
 Install Python scripts to your ModbusTCP host. 
